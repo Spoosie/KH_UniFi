@@ -1,0 +1,14 @@
+{
+	"id": "{43FCC30C-1647-47D4-9FCA-C5E1537A262C}",
+	"name": "UniFi",
+	"type": 3,
+	"vendor": "KH-Solutions",
+	"aliases": 
+	[
+		"UniFi"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "UniFi"
+}

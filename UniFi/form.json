@@ -1,0 +1,9 @@
+{
+	"elements":
+	[
+		{ "name": "IPAddress",        "type": "ValidationTextBox", "caption": "IP-Address/Host" },
+		{ "name": "UserName",         "type": "ValidationTextBox", "caption": "Benutzername" },
+		{ "name": "UserPassword",     "type": "ValidationTextBox", "caption": "Password" }
+		
+	]	
+}
